@@ -1,6 +1,6 @@
 name = "Voxygen"
 filename = "Voxy World Gen V2-neoforge-1.21.1-2.4.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/xT0lnNE9/versions/PzNUZlWw/Voxy%20World%20Gen%20V2-neoforge-1.21.1-2.4.2.jar"

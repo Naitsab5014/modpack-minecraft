@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
+hash = "ede3f1a1a9966ecba76bd49ecc839ca1a726fcfa5686d7aad64a46854984db99"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/camera-mod.pw.toml"
-hash = "d73746f2d5a95c4bd1f09649b21d170830b9c8173aff3b6490f999d1a35c322c"
+hash = "fe753a127512959841895cf526624ece4329b63fb87f0357cd5e7c364b6d24a9"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "2b61d5100f1db31c7928ba7de237c5f863926c49a4bf53fcce27bf0371ec0575"
+hash = "e753411e53ae58f46754b5ef60e70af81a9ec6b5e31f99c47777cc59fbbc5fe4"
 metafile = true
 
 [[files]]
@@ -93,11 +93,6 @@ metafile = true
 [[files]]
 file = "mods/create-aquatic-ambitions.pw.toml"
 hash = "ad732ada7e42c44f0d5eaf45f5edfb7e90bc615ba6e50a3bb974250dfb36e83f"
-metafile = true
-
-[[files]]
-file = "mods/create-broken-bad-fabric.pw.toml"
-hash = "5117f179779ec5be73a5d36dc5055e1aaafe97672e9b39d39b46b0d433cc27aa"
 metafile = true
 
 [[files]]
@@ -212,17 +207,17 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
+hash = "652586d147ce5b3d57001a23412cfde018df40002f8a142cfbd4db4bc2a6c0fa"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "b0c37ca9826781a6bf1373ae02a141b4202037515eb071ec2327410771de6ea5"
+hash = "32c29c5acb4af0856324dbc69d23412b522ef989366305c41cbf8d03690d7f96"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-professions-jep.pw.toml"
-hash = "bffd4067f92d5d8ed7a8a3acfdae213e9523ba5a518196cbd0a98d05e95fe6b6"
+hash = "1933baa0a282d7298a49a519aa0d03dffff69b6dc6eee9e985c4fed54b355028"
 metafile = true
 
 [[files]]
@@ -242,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
+hash = "5707b722541648df013644f3b4d50083c77965d536f219df9fac5026f6103777"
 metafile = true
 
 [[files]]
@@ -302,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
+hash = "4c3ae8d66598407880f171303e0790d2c30c0cd10804022ea0407059cfd95992"
 metafile = true
 
 [[files]]
@@ -342,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy-worldgen.pw.toml"
-hash = "f2a83eaee57d5dac4d7dd3631ee44c277e01747955e9f5b4e022ffffd0edb61e"
+hash = "7fe396b0e94e83ae48ac1f2b3d4fdca7f81963c90658ffdb588c2c66f819fd3c"
 metafile = true
 
 [[files]]
@@ -352,12 +347,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "e97cb865d7a8c8310905d9140899fa55ea23c3fff2e23a17255ce2c162322ad7"
+hash = "aba95d9a82a7cedda4c0ce936ead9c764d0ffbc10483f0648d022213df7bb703"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "3a8e91aecdb602039ba1f7445bbf6b64cc5a46344339a3ffaf3b2e3eb2f5bcbc"
+hash = "f4bc20e3483a7a935b9ee674227aad73d24ecc4ea93e6c2d99955927a2197b20"
 metafile = true
 
 [[files]]
@@ -372,4 +367,4 @@ metafile = true
 
 [[files]]
 file = "ola.sh"
-hash = "d643803df8f28d7e0eebe0fc4f7bd440c404788b93f5cd5b054f4edb42a768f2"
+hash = "ef8307d59c27e25dba580d87cd399083610ab48bc46a4f06ddbff209ae9f2495"
