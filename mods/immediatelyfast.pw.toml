@@ -5,7 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
-description = "rendimiento 
+description = "rendimiento"
 
 [download]
 url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/EJzmEPZV/ImmediatelyFast-NeoForge-1.6.15%2B1.21.1.jar"

@@ -5,7 +5,7 @@ side = "both"
 [option]
 optional = true
 default = true
-description = "rendimiento 
+description = "rendimiento"
 
 [download]
 url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/DDUrRVCA/lithium-neoforge-0.15.4%2Bmc1.21.1.jar"
