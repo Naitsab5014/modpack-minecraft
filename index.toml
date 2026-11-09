@@ -364,7 +364,3 @@ metafile = true
 file = "mods/yes-steve-model.pw.toml"
 hash = "86a3fbce316c2d2e051df6915302d4417496fec60ae6f12ae24f54f823b61047"
 metafile = true
-
-[[files]]
-file = "ola.sh"
-hash = "ef8307d59c27e25dba580d87cd399083610ab48bc46a4f06ddbff209ae9f2495"
