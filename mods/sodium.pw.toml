@@ -1,6 +1,11 @@
 name = "Sodium"
 filename = "sodium-neoforge-0.8.13+mc1.21.1.jar"
-side = "client"
+side = "both"
+
+[option]
+optional = true
+default = true
+description = "rendimiento"
 
 [download]
 url = "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar"
