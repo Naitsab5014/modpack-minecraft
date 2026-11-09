@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "497aa5a2e859f02bc6bd6002f00fdb95d080981ef3d8bc960011c47ed2030b4b"
+hash = "08fb833622d80ac5204412fef5dc07db235113a5bb3b75f93b1a765cce7a06ca"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "43aa84915faea217913418bd7f7ce62868efdac304c7e4653d0d53a0147b74b4"
+hash = "b65c23e2c0c4a841e4c6b90b470c0e3cea13fe181db3c1ddc54afa4b7e658ab7"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e0c1f4bb84372202214d953889a014bfdfda3d177b36a93755c442bcaa784197"
+hash = "e1ac85126a3005ecdb6ca9e3f1485cafee5aa927a952e572785a6e70ca536ab7"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "cd629ddd025d4d8d41f4a34757862b026e9726a2a5a612e1b4fbb582f595b8d0"
+hash = "d6859bd4d97b696beadfccf61d1a95e48febfb402ced1c89a20327ee61cf72a9"
 metafile = true
 
 [[files]]
