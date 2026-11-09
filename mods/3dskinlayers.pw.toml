@@ -11,3 +11,8 @@ hash = "541d39edf2781676d9777e3c4a18f179f0b0c04f3ea10d279154996b165e02ae5431100f
 [update.modrinth]
 mod-id = "zV5r3pPn"
 version = "GJTnQGfe"
+
+[option]
+optional = true
+default = true
+description = "Mod de cliente (opcional)"

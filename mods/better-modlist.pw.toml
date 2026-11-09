@@ -11,3 +11,8 @@ hash = "65f47d2e3d72d9411dd07ac0740c771a1ea2693a1e72d69b83ba7edf3b20abf67510abc8
 [update.modrinth]
 mod-id = "sbpqhzIG"
 version = "QRL2q28j"
+
+[option]
+optional = true
+default = true
+description = "Mod de cliente (opcional)"

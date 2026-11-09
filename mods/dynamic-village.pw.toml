@@ -1,13 +1,13 @@
 name = "Create: Dynamic Village"
-filename = "dynamicvillage-0.9-1.21.1.jar"
+filename = "dynamicvillage-v0.5.1-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "334ceffc91199d2755d81acd57d42dd94412c4bf"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/YCPmkFAm/versions/9maBydxx/dynamicvillage-v0.5.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "f16317ca147cb3558441d3e984fb21d477a061154dabaa497371a9fe4533b66e7af7ff4233f068beb089e1c9565697200e2dca990894c87c56339382fe5b9cc6"
 
 [update]
-[update.curseforge]
-file-id = 8749909
-project-id = 919759
+[update.modrinth]
+mod-id = "YCPmkFAm"
+version = "9maBydxx"

@@ -11,3 +11,8 @@ hash = "93e83dd690b91d610be29451b34836c9daa7e08bd952f88ffa07c62d8774bbaac2ff0c67
 [update.modrinth]
 mod-id = "NNAgCjsB"
 version = "eieYbWYb"
+
+[option]
+optional = true
+default = true
+description = "Mod de cliente (opcional)"

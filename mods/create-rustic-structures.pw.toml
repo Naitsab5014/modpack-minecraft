@@ -3,11 +3,11 @@ filename = "create_rustic_structures-1.0.1-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f8f8dea6a23f697c3f27196627bdf77d9147b8e4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/lmbZMkEZ/versions/d0sTQvqS/create_rustic_structures-1.0.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "75d7a5f6786ca3b7cca6fe0c8ac03abdfcccbc5205ec120f01e37864556ac450a33c23dba75265385dbc6af96a72bfbff4d70aabe1a0c1e6b666654501489f86"
 
 [update]
-[update.curseforge]
-file-id = 8122033
-project-id = 1232975
+[update.modrinth]
+mod-id = "lmbZMkEZ"
+version = "d0sTQvqS"

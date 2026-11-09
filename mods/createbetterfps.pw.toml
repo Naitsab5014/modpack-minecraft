@@ -2,11 +2,6 @@ name = "CreateBetterFps"
 filename = "createbetterfps-1.21.1-1.1.5.jar"
 side = "client"
 
-[option]
-optional = true
-default = true
-description = "rendimiento"
-
 [download]
 url = "https://cdn.modrinth.com/data/lMYIHZNH/versions/dxmPYimo/createbetterfps-1.21.1-1.1.5.jar"
 hash-format = "sha512"
@@ -16,3 +11,8 @@ hash = "d98deec79eefb8e0c8ddda7def8a46f4c66402a213da5242f8ff029f43b844e68914fa31
 [update.modrinth]
 mod-id = "lMYIHZNH"
 version = "dxmPYimo"
+
+[option]
+optional = true
+default = true
+description = "Mod de cliente (opcional)"

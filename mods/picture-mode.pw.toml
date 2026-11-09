@@ -2,11 +2,6 @@ name = "Picture Mode"
 filename = "picturemode-neoforge-1.1.7+1.21.1.jar"
 side = "client"
 
-[option]
-optional = true
-default = false
-description = "agrega un podo para tomar fotos"
-
 [download]
 url = "https://cdn.modrinth.com/data/kFU5UCQz/versions/LsxOg0qe/picturemode-neoforge-1.1.7%2B1.21.1.jar"
 hash-format = "sha512"
@@ -16,3 +11,8 @@ hash = "53166bbf63f6ad41a705a8a013bfde7dc7a4803051f4ee4d42bd2eb46aced2b8182b8c5a
 [update.modrinth]
 mod-id = "kFU5UCQz"
 version = "LsxOg0qe"
+
+[option]
+optional = true
+default = true
+description = "Mod de cliente (opcional)"

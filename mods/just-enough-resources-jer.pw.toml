@@ -1,13 +1,18 @@
 name = "Just Enough Resources (JER)"
 filename = "JustEnoughResources-NeoForge-1.21.1-1.6.0.66.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "a4a0014003c87eeed0e812088a9ecde76140b155"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/uEfK2CXF/versions/pTW8XhMJ/JustEnoughResources-NeoForge-1.21.1-1.6.0.66.jar"
+hash-format = "sha512"
+hash = "ac329fc1d1e6379cd519e7e3ffd0b2d0c83b2d8c6e1f402cd4cff837f79f90c6b26475ea2a4b84647f1ab2b977db1a5867e41c54d14c70b74b1bbc62e309fbc6"
 
 [update]
-[update.curseforge]
-file-id = 9452611
-project-id = 240630
+[update.modrinth]
+mod-id = "uEfK2CXF"
+version = "pTW8XhMJ"
+
+[option]
+optional = true
+default = true
+description = "Mod de cliente (opcional)"

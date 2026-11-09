@@ -2,11 +2,6 @@ name = "Lithium"
 filename = "lithium-neoforge-0.15.4+mc1.21.1.jar"
 side = "both"
 
-[option]
-optional = true
-default = true
-description = "rendimiento"
-
 [download]
 url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/DDUrRVCA/lithium-neoforge-0.15.4%2Bmc1.21.1.jar"
 hash-format = "sha512"
