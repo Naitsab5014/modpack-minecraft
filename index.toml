@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/camera-mod.pw.toml"
-hash = "fe753a127512959841895cf526624ece4329b63fb87f0357cd5e7c364b6d24a9"
+hash = "d73746f2d5a95c4bd1f09649b21d170830b9c8173aff3b6490f999d1a35c322c"
 metafile = true
 
 [[files]]
