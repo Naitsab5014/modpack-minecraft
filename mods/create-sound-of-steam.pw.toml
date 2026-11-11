@@ -11,3 +11,8 @@ hash = "01708cd31528f3bb93f2e68571cb54951338e5913fd828fef87a1c8fadbd82c9a378d8a4
 [update.modrinth]
 mod-id = "yGttHo06"
 version = "mv1qcsse"
+
+[option]
+optional = false
+default = true
+description = ""

@@ -15,4 +15,4 @@ version = "EJzmEPZV"
 [option]
 optional = true
 default = true
-description = "Mod de cliente (opcional)"
+description = "rendimiento"

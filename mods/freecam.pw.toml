@@ -14,5 +14,5 @@ version = "ROfcbxxe"
 
 [option]
 optional = true
-default = true
-description = "Mod de cliente (opcional)"
+default = false 
+description = "agrega camara libre"

@@ -11,3 +11,8 @@ hash = "76d293ce751a01cb9c095a3659b0a41e03e005480bc9d76dfdc73ec7c2eabf7923740c7b
 [update.modrinth]
 mod-id = "T9PomCSv"
 version = "fg9dTRz9"
+
+[option]
+optional = false
+default = true
+description = ""

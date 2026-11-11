@@ -11,3 +11,8 @@ hash = "1250d8604b1ab0e3510ca31cc7da2cd469bc543b3e925f2d483a50edd1703d0c740a6b1d
 [update.modrinth]
 mod-id = "nmoqTijg"
 version = "ceT6tucA"
+
+[option]
+optional = false
+default = true
+description = ""

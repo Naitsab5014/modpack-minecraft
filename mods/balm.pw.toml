@@ -11,3 +11,8 @@ hash = "ad4f4df829b1195446486df818c2c1f0bf6738cb1b30cfdbf9eae4855ce62a66b00f2dc5
 [update.modrinth]
 mod-id = "MBAkmtvl"
 version = "gMedgtzL"
+
+[option]
+optional = false
+default = true
+description = ""

@@ -11,3 +11,8 @@ hash = "3e4530d97403cd8efabd3ac0dddfc2360b3c94b0cfc061ed36546a56d8857d1a4d95094c
 [update.modrinth]
 mod-id = "uWrs8XlB"
 version = "zfExofVB"
+
+[option]
+optional = false
+default = true
+description = ""

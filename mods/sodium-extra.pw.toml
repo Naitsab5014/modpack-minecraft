@@ -15,4 +15,4 @@ version = "T819dLGI"
 [option]
 optional = true
 default = true
-description = "Mod de cliente (opcional)"
+description = "REQUIERE SODIUM. rendimiento"

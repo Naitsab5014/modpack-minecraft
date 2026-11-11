@@ -11,3 +11,8 @@ hash = "f16317ca147cb3558441d3e984fb21d477a061154dabaa497371a9fe4533b66e7af7ff42
 [update.modrinth]
 mod-id = "YCPmkFAm"
 version = "9maBydxx"
+
+[option]
+optional = false
+default = true
+description = ""

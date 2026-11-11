@@ -11,3 +11,8 @@ hash = "2a1d1e6e27aa0744d131ad12dcc4e3bcae2d5d10c620cc566cb0300c63a66bced1c55be0
 [update.modrinth]
 mod-id = "N9QToVpw"
 version = "AEMRNsNS"
+
+[option]
+optional = false
+default = true
+description = ""

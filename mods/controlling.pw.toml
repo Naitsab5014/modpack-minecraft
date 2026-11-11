@@ -14,5 +14,5 @@ version = "FaNppCJJ"
 
 [option]
 optional = true
-default = true
-description = "Mod de cliente (opcional)"
+default = false 
+description = "permite usar control en lugar de teclado y mouse"

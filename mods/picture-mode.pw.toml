@@ -14,5 +14,5 @@ version = "LsxOg0qe"
 
 [option]
 optional = true
-default = true
-description = "Mod de cliente (opcional)"
+default = false 
+description = "agrega un modo fotos"

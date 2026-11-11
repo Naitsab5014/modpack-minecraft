@@ -15,4 +15,4 @@ version = "uMOpc5uV"
 [option]
 optional = true
 default = true
-description = "Mod de cliente (opcional)"
+description = "rendimiento"

@@ -11,3 +11,8 @@ hash = "6eaf42758446093c1923a9c325b955f7ec38933bc0b271559547b73b7dc9950e47a8256c
 [update.modrinth]
 mod-id = "WROfLLvn"
 version = "K3nIvcWT"
+
+[option]
+optional = false
+default = true
+description = ""

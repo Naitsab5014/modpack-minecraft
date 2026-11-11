@@ -11,3 +11,8 @@ hash = "d888553c8a254c3654f8da2ae2cae0bb642594546c71988739c93bf6b18668145e0ce5b1
 [update.modrinth]
 mod-id = "x49wilh8"
 version = "uQsIRky8"
+
+[option]
+optional = false
+default = true
+description = ""

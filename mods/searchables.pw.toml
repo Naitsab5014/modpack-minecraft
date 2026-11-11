@@ -13,6 +13,6 @@ mod-id = "fuuu3xnx"
 version = "iEE85X0w"
 
 [option]
-optional = true
+optional = false 
 default = true
-description = "Mod de cliente (opcional)"
+description = ""

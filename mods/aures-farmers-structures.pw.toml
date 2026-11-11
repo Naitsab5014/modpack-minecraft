@@ -11,3 +11,8 @@ hash = "cacea687bf16e8a3ec6a1b46fa5323490a3aef9e970bbe882b3f13bd219fe6b044f04ba0
 [update.modrinth]
 mod-id = "iYGRt6QB"
 version = "MEsGDnri"
+
+[option]
+optional = false
+default = true
+description = ""

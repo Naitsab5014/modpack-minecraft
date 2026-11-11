@@ -14,5 +14,5 @@ version = "GJTnQGfe"
 
 [option]
 optional = true
-default = true
-description = "Mod de cliente (opcional)"
+default = true 
+description = "deja mas bonito el reliebe de las skins"

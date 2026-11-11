@@ -14,5 +14,5 @@ version = "maXNB1dn"
 
 [option]
 optional = true
-default = true
-description = "Mod de cliente (opcional)"
+default = false 
+description = "permite personalizar el f3"
