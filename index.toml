@@ -346,11 +346,6 @@ hash = "10e655882f1bc1a04b4671f581c351665fa9d89034ff9d275fc0811e0a2cfeb6"
 metafile = true
 
 [[files]]
-file = "mods/unified-xaero-worldmap.pw.toml"
-hash = "b64e2065de86619a7b27ca1c5d4dbdb7f6b9fe4752729d6028c0a0ad3f43ed36"
-metafile = true
-
-[[files]]
 file = "mods/voxy-worldgen.pw.toml"
 hash = "424134206ced9ae42c4b859b04f21afd3eaac7497be9ae1c314293da4c82488f"
 metafile = true
@@ -383,9 +378,4 @@ metafile = true
 [[files]]
 file = "mods/yes-steve-model.pw.toml"
 hash = "da50ffdcd5dbb28e4f5dc2965fda84093fd7a3cfe5975d3a67f38bb231e232c9"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xearo-zh-cn.pw.toml"
-hash = "3ab456330c159c8d90a201ff75ebf0efd14ab2265748bbf7188bb990d75c7c35"
 metafile = true
