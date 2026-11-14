@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "b40fe4d37757c0cb8611db4031315d9a0b40d1aaf62eaf59d80ea686248a28aa"
+hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
 
 [[files]]
@@ -258,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/lodestone.pw.toml"
 hash = "01ad6186a888136278e98b86ccc3addc5a06bc4543029f11059fc7bd83906910"
+metafile = true
+
+[[files]]
+file = "mods/mapsyncer-for-xaeroworldmap.pw.toml"
+hash = "fc09ad6f603a6bc743c439fb154f0e3385ffa7566fdd5f8e8c12f6d34b66bb24"
 metafile = true
 
 [[files]]
@@ -352,25 +357,35 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "daecfda8ba28757858f4352212298112936db81ed87c2fca31def828cc07d287"
+hash = "2dad5577c5ec5e73bb3d5cec8da606e3b72e384207c9291a25e1ae96fd20bb70"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-maps-x-waystones.pw.toml"
+hash = "bf54d2b807e458a4f2d3ac6ac7f5d7008d63dc033e098f56b75104908ff0cd78"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4f0da86b7d0187c405bcc160f825ae238a7c2bb94fb22b42d0c98d16b042a813"
+hash = "e97cb865d7a8c8310905d9140899fa55ea23c3fff2e23a17255ce2c162322ad7"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "62eaf7c193d20dbec89944f6e1401ce64a80d8d704830a988d24c1498d8316e2"
+hash = "3a8e91aecdb602039ba1f7445bbf6b64cc5a46344339a3ffaf3b2e3eb2f5bcbc"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "8fba15d8d4b236bfe9250f8db36552425fb93542f6a1166e423840f6ad29ce59"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
 file = "mods/yes-steve-model.pw.toml"
 hash = "da50ffdcd5dbb28e4f5dc2965fda84093fd7a3cfe5975d3a67f38bb231e232c9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xearo-zh-cn.pw.toml"
+hash = "3ab456330c159c8d90a201ff75ebf0efd14ab2265748bbf7188bb990d75c7c35"
 metafile = true
