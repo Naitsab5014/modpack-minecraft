@@ -186,6 +186,11 @@ hash = "c822226d5222f544485da2d8e06f6a75f48c86fa10cfae7591281abd132f0375"
 metafile = true
 
 [[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "c9f1d5f4883252ca57b26c2fd4264a12f3b407be21097bbfefacdcb9fa9d7e4a"
+metafile = true
+
+[[files]]
 file = "mods/freecam.pw.toml"
 hash = "fd145bff219de1373c567547498f05567a73142a5b7b3d00ac2f77519ae2d6c6"
 metafile = true
@@ -333,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "10e655882f1bc1a04b4671f581c351665fa9d89034ff9d275fc0811e0a2cfeb6"
+metafile = true
+
+[[files]]
+file = "mods/unified-xaero-worldmap.pw.toml"
+hash = "b64e2065de86619a7b27ca1c5d4dbdb7f6b9fe4752729d6028c0a0ad3f43ed36"
 metafile = true
 
 [[files]]
