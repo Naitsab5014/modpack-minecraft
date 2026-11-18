@@ -11,8 +11,3 @@ hash = "4f537696af95411e9daf15795fb5fcbc49913d488a96fa912fa8f1d7db408710995e8a14
 [update.modrinth]
 mod-id = "AANobbMI"
 version = "uMOpc5uV"
-
-[option]
-optional = true
-default = true
-description = "rendimiento"
