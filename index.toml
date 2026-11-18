@@ -191,6 +191,11 @@ hash = "8c103e5562552538720c83669961ed6c0d8694c2e1d4e19237c4695afed23ca8"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "311dec23d3af3aaf1e2004b85b95646bfe941a4dfb36a0eac38eaf8c66a5286d"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-village.pw.toml"
 hash = "32757108df950c5a2b7429a4554c3fd2e2e860024ac4cee70ca73364683d4eea"
 metafile = true
