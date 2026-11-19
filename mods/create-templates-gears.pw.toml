@@ -1,0 +1,13 @@
+name = "Create: Templates & Gears"
+filename = "create_templates_gears-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ubfQJZV7/versions/WCJ3vqpg/create_templates_gears-1.2.2.jar"
+hash-format = "sha512"
+hash = "59ad8e393c4923ab45710ccf33989fb91ccef7a7f10821dde6865c7efcd866552a36fb56d81933fdd573764445c76629a4e3b3fa622cfa6296661904019e5c0e"
+
+[update]
+[update.modrinth]
+mod-id = "ubfQJZV7"
+version = "WCJ3vqpg"

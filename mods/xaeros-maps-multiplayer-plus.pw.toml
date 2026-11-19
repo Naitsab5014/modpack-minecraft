@@ -11,3 +11,8 @@ hash = "8b100f244b2cf6a23ec9d117848604dc34571a42e9772f05f51fb65ba0f8734e71472dc9
 [update.modrinth]
 mod-id = "stTaMuWa"
 version = "SvKcLwTB"
+
+[option]
+optional = false
+default = true
+description = ""

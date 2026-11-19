@@ -13,6 +13,6 @@ mod-id = "EsAfCjCV"
 version = "uAKA6Laj"
 
 [option]
-optional = false
+optional = true 
 default = true
 description = "vista previa a comida que agregan los items"

@@ -11,3 +11,8 @@ hash = "0b65c3a78db5785c76a222639a56da0cd09fc8445e02cdfb84e4bb7c88dc2c5622ccb468
 [update.modrinth]
 mod-id = "p19vrgc2"
 version = "AYDaLPK8"
+
+[option]
+optional = false
+default = true
+description = ""

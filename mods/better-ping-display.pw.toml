@@ -11,3 +11,8 @@ hash = "301362230f1e66a6725eb20fae106435f2d9561df631a54091956b052f9a2111a230b238
 [update.modrinth]
 mod-id = "ZvaHbwoZ"
 version = "AzKubcBR"
+
+[option]
+optional = true
+default = true
+description = "deja ver el ping en numeros"
