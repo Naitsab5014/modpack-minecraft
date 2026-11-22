@@ -216,6 +216,11 @@ hash = "a7597b3a9fb7eeabede31287082fc8b5274e2ec3b42a0ce3672c4a867f09c9c5"
 metafile = true
 
 [[files]]
+file = "mods/datapatched.pw.toml"
+hash = "facacf55d081a743da61883d098ae426969a78e597908af1311ff35b200ac898"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-lights.pw.toml"
 hash = "19408dd7f1469da8fd467d5d152b4f9d7c3f431b164aae46a8e5f4db3d095b4d"
 metafile = true
@@ -223,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-village.pw.toml"
 hash = "32757108df950c5a2b7429a4554c3fd2e2e860024ac4cee70ca73364683d4eea"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "7b3c7609e07faade9f1c2f5bcf9c655215d38c2ae32d68fc2de7b5b1459fda4c"
 metafile = true
 
 [[files]]
@@ -426,18 +436,13 @@ hash = "508355257cd7582353500e10c55af32e128a825e11c9503826180cdc5ca79e60"
 metafile = true
 
 [[files]]
-file = "mods/tool-trims.pw.toml"
-hash = "580c4fbb12a2f983bbe1976d02182f8b0d0660a8d4db7a6b608700903bfd948e"
-metafile = true
-
-[[files]]
 file = "mods/trek.pw.toml"
 hash = "0c3a20a86aef3adac3a3efc0a427322e6cc93eaa73e20c63f31ef3c5f6035053"
 metafile = true
 
 [[files]]
-file = "mods/voxy-worldgen.pw.toml"
-hash = "424134206ced9ae42c4b859b04f21afd3eaac7497be9ae1c314293da4c82488f"
+file = "mods/trimmable-tools.pw.toml"
+hash = "6fd8e11060b70e43467502cc486ec82f566a3751779cd394d4f4e5274e36a522"
 metafile = true
 
 [[files]]

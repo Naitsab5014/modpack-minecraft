@@ -1,0 +1,13 @@
+name = "Datapatched"
+filename = "datapatched-2.2.2-neoforge-21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7XXwJbHD/versions/lI5qe0ZW/datapatched-2.2.2-neoforge-21.1.jar"
+hash-format = "sha512"
+hash = "a15c688f66652e8bdcfd85f90653f4e25d26677759c08c2f33bf861950f64e6f6d92ecf85f4cf92e995eeb54a6b03090820f852326b367bd91fd77f585272221"
+
+[update]
+[update.modrinth]
+mod-id = "7XXwJbHD"
+version = "lI5qe0ZW"
