@@ -86,6 +86,11 @@ hash = "f9c1e0dd1c5b26b02584ce8e05d61229c0af7dd268838cbd203f2ecd27138eba"
 metafile = true
 
 [[files]]
+file = "mods/concrete-lib.pw.toml"
+hash = "462fa23bf8fa3099cb3b52bf25f575ece9839b6cd04423c519e543e1ac76a2fb"
+metafile = true
+
+[[files]]
 file = "mods/connected-glass.pw.toml"
 hash = "9770d871cc045a08b0ff5c6c0fb20c10dc0e3e1425a73f10478dfc8db265bb0e"
 metafile = true
@@ -128,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "32c7f9c68280c147837688b51237a72413b341caec387ca3b0a77ed3e5dc7587"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "dcbb37e828a2f915e64a2ef839a742761a553a2e3b923b000ffba95db7503ac3"
 metafile = true
 
 [[files]]

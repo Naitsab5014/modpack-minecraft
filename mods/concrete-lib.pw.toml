@@ -1,0 +1,13 @@
+name = "Concrete Lib"
+filename = "concrete_lib-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UMo9gmnI/versions/e59e8Vyz/concrete_lib-neoforge-1.0.0.jar"
+hash-format = "sha512"
+hash = "9b326640be450801dde7ba29e04dc38e8907465449d1ddd65fcac7655ca10eb9018eefacf7343e0d7685c427c40a520b1e56d69d7f337c31b3cb49844c3c23db"
+
+[update]
+[update.modrinth]
+mod-id = "UMo9gmnI"
+version = "e59e8Vyz"
