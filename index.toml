@@ -121,6 +121,11 @@ hash = "385f419551967202c7309c72840fd745a305b16d990356965a1a1b2d17759786"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
+metafile = true
+
+[[files]]
 file = "mods/create-broken-bad.pw.toml"
 hash = "004439b38e10f65e48915b22197e64766282433d888fb0596b1d78e84505f965"
 metafile = true
@@ -163,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/create-rustic-structures.pw.toml"
 hash = "17b69a2bcaafe6ba9a2016eb8a0a458b511c45500323bed23bd0614d794d983a"
+metafile = true
+
+[[files]]
+file = "mods/create-sophisticated-backpacks-compat.pw.toml"
+hash = "79d7cf09cdc88b8e64cb684be60efe938193ee13d8a64fc31e3ad1ae622bf4af"
 metafile = true
 
 [[files]]
@@ -276,6 +286,11 @@ hash = "2b6caba7696bb4ab00171c092eae4c3424aded4a1815d2836a18cf3eda6236b2"
 metafile = true
 
 [[files]]
+file = "mods/hearths.pw.toml"
+hash = "40b201d2061f1a0df66401984c5242a8786f24f775f9f15991a280c2a80dc715"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "f16d98031538cd11e29e1ec52a06c7a73596239c33846e1214d80cd420fab671"
 metafile = true
@@ -366,6 +381,21 @@ hash = "d6ca5a6b377058a66e481786e22951a3723031e1f50947db61203b4f524def5b"
 metafile = true
 
 [[files]]
+file = "mods/nexusbridge.pw.toml"
+hash = "1ca9d5e76a7536c6780f789d603441fdd93ba7402a8cd5b07775e1a545695e46"
+metafile = true
+
+[[files]]
+file = "mods/nrb.pw.toml"
+hash = "31504d0134a5afa54c6ed91da93e06f628806669a50261dae24e2c781c74278d"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "8cf9452197ae7deae53c504a98406494cbd2468055bff5d9d0d981c50eb09748"
+metafile = true
+
+[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "ff81c3e666749d4b09d1ad25eb1068143b3aa486916815bda03c0750239bfcae"
 metafile = true
@@ -386,8 +416,18 @@ hash = "0370c64e808cbc1549b4bc0075f6ab8591d1632e6564baa7626153ab2de24b32"
 metafile = true
 
 [[files]]
+file = "mods/recipe-modification.pw.toml"
+hash = "86473f35a06d7af485175734700a3858e7ae138d7bb43ba1d4a8a74320ccfbe1"
+metafile = true
+
+[[files]]
 file = "mods/room-for-two.pw.toml"
 hash = "f6e9b61aeb5c334be906a53168404b35f467cdb38b4d0b048087dea02c80dd11"
+metafile = true
+
+[[files]]
+file = "mods/rpl.pw.toml"
+hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
 
 [[files]]
@@ -401,8 +441,18 @@ hash = "d65f266cb0eb57c310b96b18082a1c2c5c0171be090af2d7675463e66bd1a50f"
 metafile = true
 
 [[files]]
+file = "mods/seed-delight.pw.toml"
+hash = "920221401fac7abc0c2d76c8970ff036964eafec746808d22018106c037d815b"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "3c24accda8011a6a5e04c49c40e39617bb04ab3a549d8f2e8180d3246fddac39"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping.pw.toml"
+hash = "7412c44c901bde0cb0e86b1cd93a7ae717bd5e4592fa260a26c0493d574970ca"
 metafile = true
 
 [[files]]
@@ -426,6 +476,11 @@ hash = "10e655882f1bc1a04b4671f581c351665fa9d89034ff9d275fc0811e0a2cfeb6"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "c29f1e8b9c678db9d42d18e6763bd0f411461a9eeda02a637a7edd80f6dc34e0"
 metafile = true
@@ -443,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/trimmable-tools.pw.toml"
 hash = "6fd8e11060b70e43467502cc486ec82f566a3751779cd394d4f4e5274e36a522"
+metafile = true
+
+[[files]]
+file = "mods/vegan-delight.pw.toml"
+hash = "2db93afe3bf4cbcfee9025495c50bad07c5984012c57378271ba29a5775b4c05"
 metafile = true
 
 [[files]]

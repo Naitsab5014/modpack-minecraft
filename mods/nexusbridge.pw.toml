@@ -1,0 +1,13 @@
+name = "NexusBridge"
+filename = "Nexusbridge-0.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/7koQeLm4/versions/Gf9zQBK6/Nexusbridge-0.1.0.jar"
+hash-format = "sha512"
+hash = "1d38a7afacc82a18f1b5e478b24137c1204679a2740f31dff37ff5345c84195af8acde2ae2249bfb0c9c4aad790b425a7d402adb2d2039b75fc1f1e29624afb4"
+
+[update]
+[update.modrinth]
+mod-id = "7koQeLm4"
+version = "Gf9zQBK6"
