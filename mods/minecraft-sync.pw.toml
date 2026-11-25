@@ -1,0 +1,13 @@
+name = "MC-Sync"
+filename = "mc-sync-neoforge-1.21.1-2.2.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/noKcRQOR/versions/o90mLh5W/mc-sync-neoforge-1.21.1-2.2.20.jar"
+hash-format = "sha512"
+hash = "debeb71739f2ac796988666df3518da9bfdfb632a027d4c4435a89e6195d19ee9fcf5a4c73a3c03373d858eac0744adbe75870853bccbd915c39416a49ae3f08"
+
+[update]
+[update.modrinth]
+mod-id = "noKcRQOR"
+version = "o90mLh5W"

@@ -366,6 +366,11 @@ hash = "cfeabcf5844142c861d6250079a57d480e84f11aea35d06d35f5c30a2d3c124b"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-sync.pw.toml"
+hash = "4ff73488d43e995097a655ecc9fb55fb1758f76e6ac9dc15efdf7a024e32f091"
+metafile = true
+
+[[files]]
 file = "mods/miners-delight-plus.pw.toml"
 hash = "b36ab4ca809ac6d7841cebc82bc222ea0706924c919b1d07919f1e45c2959d01"
 metafile = true
