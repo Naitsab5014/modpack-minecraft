@@ -381,11 +381,6 @@ hash = "d6ca5a6b377058a66e481786e22951a3723031e1f50947db61203b4f524def5b"
 metafile = true
 
 [[files]]
-file = "mods/nexusbridge.pw.toml"
-hash = "1ca9d5e76a7536c6780f789d603441fdd93ba7402a8cd5b07775e1a545695e46"
-metafile = true
-
-[[files]]
 file = "mods/nrb.pw.toml"
 hash = "31504d0134a5afa54c6ed91da93e06f628806669a50261dae24e2c781c74278d"
 metafile = true
